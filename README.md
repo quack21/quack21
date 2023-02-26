@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quack21
 - 👀 I’m interested in JavaScript and Python
-- 🌱 I’m currently learning React, Redux Toolkit, Typescript, Webpack, PosgreSQL...
+- 🌱 I’m currently learning Typescript, Webpack...
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me vk.com/quack21
 

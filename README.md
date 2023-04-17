@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quack21
 - 👀 I’m interested in JavaScript and Python
-- 🌱 I’m currently learning Typescript, Webpack...
+- 🌱 I’m currently learning Webpack...
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me vk.com/quack21
 

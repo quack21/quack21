@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me vk.com/quack21
 
-let mySkills = [Python, JavaScript, TypeScript, HTML, CSS, Redux, Redux Toolkit, React, Axios, React Router, Yarn, MobX, Sass, Lodash, Git, Git Graph, Atlassian Jira, BitBucket, MUI, Leaflet]
+let mySkills = [Python, JavaScript, TypeScript, HTML, CSS, SASS, Redux, Redux Toolkit, React, Axios, React Router, MobX, Lodash, Git, Atlassian Jira, MUI, Leaflet, React PDF, React DatePicker, React Hook Form]
 
